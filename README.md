@@ -1,4 +1,6 @@
-# Welcome to your Expo app 👋
+# Linya
+
+A simple app aimed to help actors memorize their lines through simple text to speech comparison
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
