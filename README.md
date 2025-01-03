@@ -1,4 +1,4 @@
-# Linya
+# Linya 🧾
 
 A simple app aimed to help actors memorize their lines through simple text to speech comparison
 
