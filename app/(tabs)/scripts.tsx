@@ -1,9 +1,9 @@
 import { Text, View, StyleSheet } from "react-native";
 
-export default function Index() {
+export default function Scripts() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Behold the main screen of Linya!</Text>
+      <Text style={styles.text}>Behold the SCRIPTS screen of Linya!</Text>
     </View>
   );
 }
